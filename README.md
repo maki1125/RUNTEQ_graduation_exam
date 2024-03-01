@@ -57,3 +57,4 @@ RUNTEQのmattermostで紹介する。
 
 ・HTML,CSS,JavaScriptを駆使して、ビューの部分を賑やかにする予定。
 
+
